@@ -1,2 +1,4 @@
 cambio en main despues de proteger la rama
 cambio 2
+
+bug
